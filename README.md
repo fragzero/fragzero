@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me [fragzero.com.br](http://fragzero.com.br)
+- :skull: linktree [@frag_zero](http://linktr.ee/frag_zero)
 - :skull: Twitter [@fragzero](http://twitter.fragzero.com.br)
 - :skull: Twitch [@fragzero_](http://twitch.fragzero.com.br)
 - :skull: Blog [blog.fragzero.com.br](http://blog.fragzero.com.br)
