@@ -7,7 +7,3 @@
 - :skull: Twitter [@fragzero](http://twitter.fragzero.com.br)
 - :skull: Twitch [@fragzero_](http://twitch.fragzero.com.br)
 - :skull: Blog [blog.fragzero.com.br](http://blog.fragzero.com.br)
-
-
-
-:red_circle: [Vote here](https://twitch.uservoice.com/forums/310210-discover/suggestions/43149327-cybersecurity) for create cybersecurity category in twitch
