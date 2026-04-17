@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@fragzero](http://github.fragzero.com.br)
-- 👀 I’m interested in development, ai, art, internet, games, security and technology
+- 👀 I’m interested in GenAI, AI Agents, dev, ai, art, games, security and technology
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me [fragzero.com.br](http://fragzero.com.br)
