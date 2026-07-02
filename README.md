@@ -1,10 +1,10 @@
 - 👋 Hi, I’m [@fragzero](http://github.fragzero.com.br)
 - 👀 I’m interested in GenAI, AI Agents, dev, ai, art, games, security and technology
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning [cybersecurity](https://tryhackme.com/p/fragzero)
 - 💞️ I’m looking to collaborate on some stuff
 - 📫 How to reach me [fragzero.com.br](http://site.fragzero.com.br)
 - 🌲 linktree [@frag_zero](http://linktr.ee/frag_zero)
 - 🐦 Twitter [@fragzero](http://twitter.fragzero.com.br)
 - 🎮 Twitch [@fragzero_](http://twitch.fragzero.com.br)
 - 💀 Blog [blog.fragzero.com.br](http://blog.fragzero.com.br)
-- 🛒: Shop [www.fragzero.com.br](http://www.fragzero.com.br)
+- 🛒 Shop [www.fragzero.com.br](http://www.fragzero.com.br)
