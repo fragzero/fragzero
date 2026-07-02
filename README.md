@@ -2,8 +2,9 @@
 - 👀 I’m interested in GenAI, AI Agents, dev, ai, art, games, security and technology
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on some stuff
-- 📫 How to reach me [fragzero.com.br](http://fragzero.com.br)
-- :skull: linktree [@frag_zero](http://linktr.ee/frag_zero)
-- :skull: Twitter [@fragzero](http://twitter.fragzero.com.br)
-- :skull: Twitch [@fragzero_](http://twitch.fragzero.com.br)
-- :skull: Blog [blog.fragzero.com.br](http://blog.fragzero.com.br)
+- 📫 How to reach me [fragzero.com.br](http://site.fragzero.com.br)
+- 🌲 linktree [@frag_zero](http://linktr.ee/frag_zero)
+- 🐦 Twitter [@fragzero](http://twitter.fragzero.com.br)
+- 🎮 Twitch [@fragzero_](http://twitch.fragzero.com.br)
+- 💀 Blog [blog.fragzero.com.br](http://blog.fragzero.com.br)
+- 🛒: Shop [www.fragzero.com.br](http://www.fragzero.com.br)
